@@ -1,2 +1,2 @@
-# my-site-test
-Testing a webpage with github gh-pages!
+# Mireia's awesome website!
+Look at all my cool data science projects...
