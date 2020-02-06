@@ -1,0 +1,12 @@
+---
+title: "Awesome stuf"
+author: "Mireia Valle"
+date: "6/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+make sure you read this
